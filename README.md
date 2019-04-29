@@ -1,8 +1,6 @@
 # tinyletter to Hugo 
 Tool for the migration of articles from a tinyletter.com account to a static website generator with markdown like Hugo.
 
-Here is a preview from my own migration (from tinyletter to Hugo):
-![example](./preview.png)
 
 ## Features:
 * transform HTML posts to markdown
